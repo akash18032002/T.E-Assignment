@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css"?>
+<books>
+	<heading>Welcome To Our Bookstore</heading>
+	<book>
+		<title>Title: Learn Web Development</title>
+		<author>Author: John Doe</author>
+		<publisher>Publisher: Packt Publishing</publisher>
+		<edition>Edition: 2</edition>
+		<price>Price: $25.99</price>
+	</book>
+	<book>
+		<title>Title: Mastering HTML and CSS</title>
+		<author>Author: Jane Smith</author>
+		<publisher>Publisher: O'Reilly Media</publisher>
+		<edition>Edition: 3</edition>
+		<price>Price: $35.99</price>
+	</book>
+	<book>
+		<title>Title: Networking Fundamentals</title>
+		<author>Author: David Lee</author>
+		<publisher>Publisher: Cisco Press</publisher>
+		<edition>Edition: 4</edition>
+		<price>Price: $45.99</price>
+	</book>
+	<book>
+		<title>Title: Database Systems</title>
+		<author>Author: Lisa Nguyen</author>
+		<publisher>Publisher: Pearson</publisher>
+		<edition>Edition: 7</edition>
+		<price>Price: $55.99</price>
+	</book>
+	<book>
+		<title>Title: Mastering Linux</title>
+		<author>Author: Mark Johnson</author>
+		<publisher>Publisher: Wiley</publisher>
+		<edition>Edition: 5</edition>
+		<price>Price: $30.99</price>
+	</book>
+</books>
